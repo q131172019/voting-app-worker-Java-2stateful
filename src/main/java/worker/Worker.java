@@ -58,7 +58,7 @@ class Worker {
       }
     }
 
-    System.err.println("Connected to redis database on 02/27/2019 ");
+    System.err.println("Connected to redis database on 06/04/2019 ");
     return conn;
   }
 
@@ -88,7 +88,7 @@ class Worker {
       System.exit(1);
     }
 
-    System.err.println("Connected to Stateful PostGreSQL Primary db on 02/26/2019");
+    System.err.println("Connected to Stateful PostGreSQL Primary db on 06/03/2019");
     return conn;
   }
 
