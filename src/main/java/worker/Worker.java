@@ -58,7 +58,7 @@ class Worker {
       }
     }
 
-    System.err.println("Connected to redis database on 06/04/2019 ");
+    System.err.println("Connected to redis database on 06/03/2019 ");
     return conn;
   }
 
